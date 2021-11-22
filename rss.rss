@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Pagina web</title>
+		<link>https://www.laopinioncoruna.es/</link>
+		<description>La voz</description>
+		<item>
+			<title>El tiempo</title>
+			<link>https://www.tiempo.es/a_coruna-a_coruna-es0lc0031.html</link>
+			<description>El tiempo en </description>
+					</item>
+		<item>
+			<title>El tiempo</title>
+			<link>https://www.laopinioncoruna.es/coruna/2021/11/18/concello-recurre-sentencia-bajada-tarifas-59653878.html</link>
+			<description>El tiempo en </description>
+			
+		</item>
+		
+	</channel>
+</rss>
