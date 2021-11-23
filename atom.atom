@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 		<title>Noticias de Coruña</title>
-		<link>https://portobujia.github.io/</link>
-		<description>Noticias de la ciudad de Coruña, donde se tratan sucesos, noticias nacionales e internacionales, deportes y tecnologías</description>
+		<link href="https://portobujia.github.io/"/>
+		 <updated>2021-11-23T18:30:02Z</updated>
+		<id>https://portobujia.github.io/</id>
+		<author>
+			<name>Jesús Alfonso Porto Bujía</name>
+		</author>
 		<entry>
 			<title>El tiempo</title>
-			<link>https://www.tiempo.es/a_coruna-a_coruna-es0lc0031.html</link>
-			<description>El tiempo en Coruña</description>
+			<id>https://www.tiempo.es/a_coruna-a_coruna-es0lc0031.html</id>
+			<updated>2021-11-23T18:30:02Z</updated>
+			<link rel="alternate" href="http://www.eltiempo24.es/"/>
+			<summary>El tiempo en Coruña</summary>
 		</entry>
 		<entry>
-			<title>El tiempo</title>
-			<link>https://www.laopinioncoruna.es/coruna/2021/11/18/concello-recurre-sentencia-bajada-tarifas-59653878.html</link>
-			<description>El tiempo en </description>	
+			<title>Noticia 1</title>
+			<id>https://portobujia.github.io/noticia1.html</id>
+			<updated>2021-11-23T18:30:02Z</updated>
+			<link rel="alternate" href="https://portobujia.github.io/"/>
+			<summary>Cortes de tráfico para desmontar la pasarela de la ronda de Outeiro</summary>	
 		</entry>	
+		
 </feed>
