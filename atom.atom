@@ -11,14 +11,14 @@
 			<title>El tiempo</title>
 			<id>https://www.tiempo.es/a_coruna-a_coruna-es0lc0031.html</id>
 			<updated>2021-11-23T18:30:02Z</updated>
-			<link rel="alternate" href="http://www.eltiempo24.es/"/>
+			<link rel="alternate" href="https://www.tiempo.es/a_coruna-a_coruna-es0lc0031.html"/>
 			<summary>El tiempo en Coruña</summary>
 		</entry>
 		<entry>
 			<title>Noticia 1</title>
 			<id>https://portobujia.github.io/noticia1.html</id>
 			<updated>2021-11-23T17:30:02Z</updated>
-			<link rel="alternate" href="https://portobujia.github.io/"/>
+			<link rel="alternate" href="https://portobujia.github.io/noticia1.html"/>
 			<summary>Cortes de tráfico para desmontar la pasarela de la ronda de Outeiro</summary>	
 		</entry>	
 		
