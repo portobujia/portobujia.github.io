@@ -3,19 +3,20 @@
     <head>
         <title>Noticias de Coruña</title>
         <meta charset="UTF-8">
-        
-        <link rel="alternate" type="application/rss+xml" title="Sindicacion" href="rss.rss" />
+        <link rel="alternate" type="application/rss+xml" title="Sindicacion RSS" href="rss.rss" />
+        <link rel="alternate" type="application/atom+xml" title="Sindicacion Atom" href="atom.atom" />
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <header>
             <h1>Noticias de Coruña</h1>
-            <img id="foto_torre" src="img/torre_hercules.jpg" title="Torre de Hercules" alt="Torre de Hercules" longdesc="torreHercules.html">
-            <a href="rss.rss"><img src="img/Feed-icon.svg"/></a>
-        
+            <img id="foto_torre" src="img/torre_hercules.jpg" title="Torre de Hercules" alt="Torre de Hercules" longdesc="longdesc/torreHercules.html">
+            <a href="rss.rss"><img id="rss" src="img/Feed-icon.svg" title="Icono RSS" alt="Icono RSS" longdesc="longdesc/rss.html"></a>
+            <a href="atom.atom"><img id="atom" src="img/atom.png" title="Icono Atom" alt="Icono Atom" longdesc="longdesc/atom.html"/></a>
         </header>
         <div id="separador"></div>
         <nav>
+            <a href="index.html">Inicio</a>
             <a href="#">Sucesos</a>
             <a href="#">Nacional</a>
             <a href="#">Internacional</a>
@@ -26,8 +27,8 @@
         <section id="novedades">
             <h2>Últimas novedades</h2>
             <article class="articulo">
-                <h3>Noticia 1</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at malesuada mi. Duis ut ornare ipsum. Ut mattis luctus congue. Sed maximus nulla urna, sed gravida ipsum malesuada et. Aliquam a porta orci. Ut id nulla ornare justo scelerisque fermentum. Proin facilisis est nec justo fermentum posuere a in ligula. Vestibulum erat ex, suscipit quis blandit at, vulputate id metus. Maecenas porta sagittis rhoncus. Suspendisse lacinia, enim ac pellentesque vestibulum, augue magna efficitur turpis, in cursus odio lorem ut felis. Donec scelerisque convallis metus, at cursus urna porta eget. Aenean ornare ante id ex dapibus, eget aliquet augue fringilla. Vestibulum non nulla ac nisi commodo faucibus. Morbi placerat finibus malesuada. Mauris sed porta purus.</p>
+                <a href="noticia1.html"><h3>Noticia 1: Cortes de tráfico para desmontar la pasarela de la ronda de Outeiro</h3></a>
+                <p>El viaducto permanece cerrado a los peatones con una valla desde hace unas semanas</p>
             </article>
             <article class="articulo">
                 <h3>Noticia 2</h3>

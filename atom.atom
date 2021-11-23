@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-	<channel>
+<feed xmlns="http://www.w3.org/2005/Atom">
 		<title>Noticias de Coruña</title>
 		<link>https://portobujia.github.io/</link>
 		<description>Noticias de la ciudad de Coruña, donde se tratan sucesos, noticias nacionales e internacionales, deportes y tecnologías</description>
-		<item>
+		<entry>
 			<title>El tiempo</title>
 			<link>https://www.tiempo.es/a_coruna-a_coruna-es0lc0031.html</link>
 			<description>El tiempo en Coruña</description>
-		</item>
-		<item>
+		</entry>
+		<entry>
 			<title>El tiempo</title>
 			<link>https://www.laopinioncoruna.es/coruna/2021/11/18/concello-recurre-sentencia-bajada-tarifas-59653878.html</link>
-			<description>El tiempo en </description>
-		</item>
-	</channel>
-</rss>
+			<description>El tiempo en </description>	
+		</entry>	
+</feed>
