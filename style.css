@@ -39,6 +39,7 @@ h1{
     float: left;
     transition:all 0.5s;
 }
+
 #atom{
     width: 5.5%;
     float: left;
@@ -145,7 +146,7 @@ h2{
 
 }
 /*Noticia1*/
-.novedades_noticias{
+#novedades_noticias{
     float:left;
     width:30%;
     margin:2%;
@@ -154,10 +155,10 @@ h2{
     box-shadow: 1px 1px black;
     border-radius: 4px;
 }
-.noticia{
+#noticia{
     padding: 10px;
 }
-.noticia h3{
+#noticia h3{
     color:blue;
 }
 #foto_pasarela{
